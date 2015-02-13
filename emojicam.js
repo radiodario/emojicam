@@ -1,7 +1,7 @@
 var WIDTH = 900;
 var HEIGHT = 600;
 var PIXEL_SIZE = 8;
-var FILE_TYPE = 'png'
+var FILE_TYPE = 'jpg'
 
 // the pngs look better when enlarged a bit
 var PNG_BUMP = (FILE_TYPE=='png' ? PIXEL_SIZE/5 : 0);
